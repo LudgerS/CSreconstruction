@@ -17,10 +17,6 @@ I also included the relevant sections of my master thesis deriving the used upda
 
 This code was developed back in 2017/18, but as the algorithm is still effective and competetitive for its intended application, I wanted to make it accessible.
 
-The 3 scripts
-- exampleCSreco_2D.m
-- exampleCSreco_19F.m
-- exampleCSreco_1H.m
-are identical except for the extracted data and some default parameter values.
+The 3 scripts (exampleCSreco_2D.m, exampleCSreco_19F.m, exampleCSreco_1H.m) are identical except for the extracted data and some default parameter values.
 
-The code is licensed under GNU GPLv3.
+This code is licensed under GNU GPLv3.
