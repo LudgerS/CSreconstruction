@@ -13,7 +13,7 @@ For details, please see
     imaging at low signal‐to‐noise ratio conditions." 
     Magnetic resonance in medicine 84.2 (2020): 592-608.
 
-I also included the relevant sections of my master thesis deriving the used update equations and providing a detailed explanation.
+I also included the relevant parts of my master thesis deriving the used update equations. The most relevant sections are 3.1.2, 3.1.3 and A.2.
 
 This code was developed back in 2017/18, but as the algorithm is still effective and competetitive for its intended application, I wanted to make it accessible.
 
