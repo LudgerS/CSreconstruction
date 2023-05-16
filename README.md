@@ -19,4 +19,4 @@ This code was developed back in 2017/18, but as the algorithm is still effective
 
 The 3 scripts (exampleCSreco_2D.m, exampleCSreco_19F.m, exampleCSreco_1H.m) are identical except for the extracted data and some default parameter values.
 
-This code is licensed under GNU GPLv3.
+If you use this software, please cite the above publication. The code is licensed under GNU GPLv3.
