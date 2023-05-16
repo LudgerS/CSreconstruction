@@ -1,0 +1,12 @@
+function out = laplaceColumn3DnonIso(nx,ny,nz)
+% first column of the matrix
+% dx'*dx + dy'*dy + dz'*dz
+% where dx, dy, dz are the discrete gradient matrices in x, y, z direction
+% with periodic boundary conditions.
+
+out = zeros(nx*ny*nz, 1);
+
+out(1) = 6;
+out([2, nx,nx + 1, nx*ny - nx + 1, nx*ny + 1, nx*ny*nz - nx*ny + 1]) = -1;
+
+end
